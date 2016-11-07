@@ -11,7 +11,7 @@ https://www.zybuluo.com/mdeditor
 >* string
 >* while
 >* function
->*object and Class
+>* object and Class
 
 
 
