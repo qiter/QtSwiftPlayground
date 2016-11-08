@@ -13,5 +13,7 @@ https://www.zybuluo.com/mdeditor
 >* function
 >* object and Class
 
+### 2016 11 08
 
+>* closuer
 
