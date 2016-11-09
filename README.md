@@ -17,3 +17,8 @@ https://www.zybuluo.com/mdeditor
 
 >* closuer update 20161109-1548
 
+### 2016 11 09
+
+>* enumAndStuct 
+
+
