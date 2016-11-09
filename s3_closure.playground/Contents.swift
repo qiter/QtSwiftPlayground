@@ -138,7 +138,7 @@ customersInLine
 
 // customersInLine is ["Barry", "Daniella"]
 var customerProviders: [() -> String] = []
-
+customersInLine
 func collectCustomerProviders(_ customerProvider: @autoclosure @escaping () -> String) {
     customerProviders.append(customerProvider)
 }
@@ -150,6 +150,9 @@ print("Collected \(customerProviders.count) closures.")
 for customerProvider in customerProviders {
     print("Now serving \(customerProvider())!")
 }
+
+customersInLine
+
 // 打印出 "Now serving Barry!"
 // 打印出 "Now serving Daniella!"
 /*
