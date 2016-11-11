@@ -23,4 +23,13 @@ https://www.zybuluo.com/mdeditor
 
 ### 2016 11 10 
 
->* properties update 20161111-0033 
+>* properties update 20161111-0033
+
+### 2016 11 11
+
+>* method 
+
+
+
+
+
