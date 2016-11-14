@@ -29,7 +29,7 @@ https://www.zybuluo.com/mdeditor
 
 >* method 
 
+### 2016 11 14
 
-
-
+>* subscripts
 
